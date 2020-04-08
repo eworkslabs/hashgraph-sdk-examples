@@ -1,0 +1,12 @@
+{
+  "name": "@hashgraph/sdk-examples",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "create-account": "create-account.js",
+    "transfer-crypto": "transfer-crypto.js"
+  },
+  "dependencies": {
+    "@hashgraph/sdk": "file:.."
+  }
+}
